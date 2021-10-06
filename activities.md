@@ -1,3 +1,6 @@
+# Activities
+<br>
+
 
 ### Courses at TU Berlin
 
@@ -7,10 +10,10 @@ A two-part course, starting with a lecture series on the historical, theoretical
 <br>
 *New course coming in summer 2022: stay tuned!*
 
-<br>
+
 
 ---
-<br>
+
 
 ### Reading Group
 
