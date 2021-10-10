@@ -14,7 +14,7 @@ author: Gui Sanches de Oliveira
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "index"
+  Home: "https://embody-rg.github.io"
   Projects: "projects"
   Courses: "courses"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
