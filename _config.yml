@@ -14,7 +14,7 @@ author: Gui Sanches de Oliveira
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "about"
+  Home: "index"
   Projects: "projects"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
