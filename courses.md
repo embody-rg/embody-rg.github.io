@@ -2,7 +2,7 @@
 title: Courses
 ---
 
-The following courses are offered to TU Berlin students at the master's and PhD level. Get in touch with Gui if you want to enrol for credit or if you are interested in auditing as an external student. 
+The following courses are offered to TU Berlin students at the master's and PhD level. Get in touch with Gui if you want to enroll for credit or if you are interested in auditing as an external student. 
 <br>
 <br>
 
