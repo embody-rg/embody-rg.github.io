@@ -1,19 +1,10 @@
-# Activities
-<br>
-
-
-### Courses at TU Berlin
-
-**Introduction to Embodied Cognitive Science (winter semester 2021/2022, online)**<br>
-A two-part course, starting with a lecture series on the historical, theoretical and methodological foundations of “embodied cognition” research in its different versions, followed by a seminar series with student presentations and group discussions focusing on recent developments in radical, enactive and ecological approaches to mind, brain and behavior. Get in touch if you are interested in taking this course for credit or just auditing. 
-<br>
-<br>
-*New course coming in summer 2022: stay tuned!*
-
-
-
+---
+title: Activities
 ---
 
+
+
+<br>
 
 ### Reading Group
 
@@ -27,6 +18,13 @@ Spring 2021: *Dynamic Patterns: The Self-Organization of Brain and Behavior*, by
 <br>
 <br>
 Fall 2020: *After Phrenology: Neural Reuse and the Interactive Brain*, by Michael L. Anderson (2014, MIT Press)
+<br>
+<br>
+
+---
+<br>
 
 
+### Public Events
 
+We are planning workshops and lectures by visiting researchers for 2022. Stay tuned!
