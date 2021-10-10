@@ -16,6 +16,7 @@ author: Gui Sanches de Oliveira
 navbar-links:
   Home: "index"
   Projects: "projects"
+  Courses: "courses"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   Activities: "activities"
