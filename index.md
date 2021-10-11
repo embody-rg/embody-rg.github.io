@@ -1,6 +1,7 @@
 <img src="/embody-logo.png" title="EMBODY Research Group logo" alt="EMBODY Research Group logo" />
 
-The EMBODY Research Group, situated at the Technical University of Berlin, facilitates and promotes interdisciplinary research in, and inspired by, embodied cognitive science. 
+The EMBODY Research Group facilitates and promotes interdisciplinary research in, and inspired by, embodied cognitive science. We are situated at the Technical University of Berlin, in Germany, where we work in partnership with the chair of [Biological Psychology and Neuroergonomics](https://www.bpn.tu-berlin.de/menue/biopsychologie_und_neuroergonomie/parameter/en/) and the [Berlin Mobile Brain/Body Imaging Lab (BeMoBIL)](https://bemobil.bpn.tu-berlin.de/). 
+
 As our name suggests, we are interested in exploring mind and behavior through the lens of organism-environment dynamics: 
 
 * following **Gibsonian ecological psychology**, we see the organism-environment system as the relevant unit of analysis for understanding mind and behavior, and as the starting point from which to make sense of subsystems such as the brain. 
