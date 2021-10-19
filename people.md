@@ -6,11 +6,12 @@ title: People
 
 <br>
 
+
 ## Core Members @ TU Berlin
 
 **Gui Sanches de Oliveira** ([website](https://sites.google.com/view/gui-oliveira/))
 <br>
-Director
+Group Leader
 <br>
 <br>
 **Paul Schweidler**
@@ -36,7 +37,7 @@ Student Member, PhD program in Biological Psychology and Neuroergonomics
 
 
 
-## Partners
+## Advisers
 
 **Klaus Gramann**
 <br>
