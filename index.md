@@ -1,6 +1,6 @@
 <img src="/embody.png" title="EMBODY Research Group logo" alt="EMBODY Research Group logo" />
 
-The EMBODY Research Group facilitates and promotes interdisciplinary research in, and inspired by, embodied cognitive science. We are situated at the Technical University of Berlin, in Germany, where we work in partnership with the [Berlin Mobile Brain/Body Imaging Lab (BeMoBIL)](https://bemobil.bpn.tu-berlin.de/). To learn more about who we are, check the "People" page.
+The EMBODY Research Group facilitates and promotes interdisciplinary research in, and inspired by, embodied cognitive science. We are situated at the Technical University of Berlin, in Germany, where we work in partnership with the [Berlin Mobile Brain/Body Imaging Lab (BeMoBIL)](https://bemobil.bpn.tu-berlin.de/).
 
 As our name suggests, we are interested in exploring mind and behavior through the lens of organism-environment dynamics: 
 
