@@ -16,6 +16,7 @@ author: Gui Sanches de Oliveira
 navbar-links:
   Home: "https://embody-rg.github.io"
   Projects: "projects"
+  People: "people"
   Courses: "courses"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
