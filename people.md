@@ -9,7 +9,7 @@ title: People
 
 ## Core Members @ TU Berlin
 
-**Gui Sanches de Oliveira** ([website](https://sites.google.com/view/gui-oliveira/))
+**Gui Sanches de Oliveira** (<a href="https://gui-cogsci.github.io/" target="_blank">website</a>)
 <br>
 Group Leader
 <br>
