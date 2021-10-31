@@ -14,4 +14,6 @@ A two-part course, starting with a lecture series on the historical, theoretical
 <br>
 
 
-### *New course coming in summer 2022: stay tuned!* ###
+### *New course coming in summer 2022: stay tuned for more details!* ###
+
+<img src="/course-TU-mind-life-complexity.png" title="Mind, Life, and Complexity course logo" alt="Mind, Life, and Complexity course logo" />
