@@ -12,7 +12,7 @@ The following courses are offered to TU Berlin students at the master's and PhD 
 A two-part course, starting with a lecture series on the historical, theoretical and methodological foundations of “embodied cognition” research in its different versions, followed by a seminar series with student presentations and group discussions focusing on recent developments in radical, enactive and ecological approaches to mind, brain and behavior.
 <br>
 <br>
-
+<br>
 
 ### *New course coming in summer 2022: stay tuned for more details!* ###
 
