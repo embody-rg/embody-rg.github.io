@@ -4,7 +4,7 @@ title: Projects
 
 
 
-<br>
+The following are some of the projects currently being developed by EMBODY Research Group members:
 
 
 
@@ -13,7 +13,7 @@ title: Projects
 ## Dynamics of Insight in Graph Comprehension 
 <img align="left" width="500" src="/project-graph-pexels-lukas-669621.jpg" title="Dynamics of Insight in Graph Comprehension" alt="Dynamics of Insight in Graph Comprehension" /> (People: Paul Schweidler, Gui Sanches de Oliveira, Tehran Davis) 
 
-Currently popular accounts explain insight as involving some kind of internal representational restructuring. In contrast with this dominant approach, we are currently conducting an eye-tracking experiment and will use nonlinear analysis methods to show how, as an embodied phenomenon, the `Aha moment' manifests itself in different behavioral patterns, including patterns of visual exploration, and can usefully be cast non-representationally in terms of a phase transition in the dynamically changing cognitive system. 
+Currently popular accounts explain insight as involving some kind of internal representational restructuring. In contrast with this dominant approach, we are currently conducting an eye-tracking experiment and using nonlinear analysis methods to show how, as an embodied phenomenon, the `Aha moment' manifests itself in different behavioral patterns, including patterns of visual exploration, and can usefully be cast non-representationally in terms of a phase transition in the dynamically changing cognitive system. 
 
 
 <br>
@@ -59,11 +59,11 @@ Studying simple behaviors like pointing and grasping can be a powerful means to 
 <br>
 
 
-## Embodied Exploration + Affordances in Neuroarchitecture
+## Embodied Exploration & Affordances in Neuroarchitecture
 <img align="left" width="500" src="/project-architecture-pexels-ricardo-esquivel-1666667.jpg" title="Affordances in Neuroarchitecture" alt="Affordances in Neuroarchitecture" /> 
 (People: Sheng Wang, Gui Sanches de Oliveira, Klaus Gramann)
 
-
+Research in neuroarchitecture investigates the neural basis of human perception of, and action within, the surrounding architectural environment, often with the goal of understanding the cognitive processes at play during this interaction and of providing a foundation for evidence-based architectural design. In this project we examine the shortcomings of contemporary neuroarchitectural research, and we propose that combining theoretical and conceptual resources from ecological psychology with state-of-the-art neuroscience methods (Mobile Brain/Body Imaging) is a promising way to push the field of neuroarchitecture forward.
 <br>
 <br>
 
