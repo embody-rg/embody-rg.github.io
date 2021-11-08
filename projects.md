@@ -16,7 +16,7 @@ The following are some of the diverse projects currently being developed by EMBO
 
 (People: Paul Schweidler, Gui Sanches de Oliveira, Tehran Davis) 
 
-Currently popular accounts explain insight as involving some kind of internal representational restructuring. In contrast with this dominant approach, we are currently conducting an eye-tracking experiment and using nonlinear analysis methods to show how, as an embodied phenomenon, the `Aha moment' manifests itself in different behavioral patterns, including patterns of visual exploration, and can usefully be cast non-representationally in terms of a phase transition in the dynamically changing cognitive system. 
+Currently popular accounts explain insight as involving some kind of internal representational restructuring. In contrast with this dominant approach, we are conducting an eye-tracking experiment and using nonlinear analysis methods to show how, as an embodied phenomenon, the "Aha moment" manifests itself in different behavioral patterns, including patterns of visual exploration, and can usefully be cast non-representationally in terms of a phase transition in the dynamically changing cognitive system. 
 
 <br>
 <br>
@@ -30,7 +30,7 @@ Currently popular accounts explain insight as involving some kind of internal re
 
 (People: Joao Lucas Mendes de Lemos Lins, Gui Sanches de Oliveira)
 
-In this project we are exploring a practical application, in the context of cognitive behavioral therapy, of Sanches de Oliveira, Raja and Chemero's (2021) radical embodied, non-representational account of occurrent thoughts (e.g., counterfactual imagination, remembering past events, and making plans for the future) as _tools_ that we build by resonating to nonlocal information at different timescales. Here, a cellphone app is being developed that prompts patients to record their thoughts (specially their self-defeating beliefs, negative attitudes, fears etc.) and, based on these patient reports, the app will provide therapists with ways to identify overarching themes in the patient's thinking in order to support therapy outcomes.
+In this project we are exploring a practical application, in the context of cognitive behavioral therapy, of Sanches de Oliveira, Raja and Chemero's (2021) radical embodied, non-representational account of occurrent thoughts (e.g., counterfactual imagination, remembering past events, and making plans for the future) as _tools_ that we build by resonating to nonlocal information at different timescales. Here, a cellphone app is being developed that prompts patients to record their thoughts (especially their self-defeating beliefs, negative attitudes, fears etc.) and, based on these patient reports, the app will provide therapists with ways to identify overarching themes in the patient's thinking in order to support therapy outcomes.
 
 <br>
 <br>
@@ -58,7 +58,7 @@ Traditional methods for assessing the sense of "presence" in virtual reality env
 
 (People: Bilal Arafaat, Gui Sanches de Oliveira, Klaus Gramann)
 
-Studying simple behaviors like pointing and grasping can be a powerful means to understanding the complexity of perception-action coupling dynamics at the neural and behavioral scales. In this project we manipulate measures related to the affordance for reaching, while varying the order of presentation and instructions, in order to determine the extent to which these lower and higher order constraints affect perception-action-related neural activity and behavioral performance.
+Studying simple behaviors like pointing and grasping can be a powerful means to understanding the complexity of perception-action coupling dynamics at the neural and behavioral scales. In this project we manipulate measures related to the affordance for reaching, while varying the order of presentation and instructions, in order to determine how these lower and higher order constraints affect perception-action-related neural activity and behavioral performance.
 
 <br>
 <br>
