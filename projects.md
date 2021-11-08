@@ -4,8 +4,8 @@ title: Projects
 
 
 
-The following are some of the projects currently being developed by EMBODY Research Group members:
-
+The following are some of the diverse projects currently being developed by EMBODY Research Group members:
+<br>
 
 
 
