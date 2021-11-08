@@ -12,8 +12,7 @@ The following are some of the projects currently being developed by EMBODY Resea
 
 # Dynamics of Insight in Graph Comprehension 
 
-<p align="center">
-<img align="center" width="500" src="/project-graph-pexels-lukas-669621.jpg" title="Dynamics of Insight in Graph Comprehension" alt="Dynamics of Insight in Graph Comprehension"  style="margin-right: 5px;"/> </p>
+<img width="500" src="/project-graph-pexels-lukas-669621.jpg" title="Dynamics of Insight in Graph Comprehension" alt="Dynamics of Insight in Graph Comprehension"/>
 
 (People: Paul Schweidler, Gui Sanches de Oliveira, Tehran Davis) 
 
@@ -27,10 +26,9 @@ Currently popular accounts explain insight as involving some kind of internal re
 
 # Thoughts as tools + mental health
 
-<p align="center"><img align="center" width="500" src="/project-phone-pexels-keira-burton-6084224.jpg" title="Thoughts as tools + mental health" alt="Thoughts as tools + mental health"  style="margin-right: 5px;"/>
+<img width="500" src="/project-phone-pexels-keira-burton-6084224.jpg" title="Thoughts as tools + mental health" alt="Thoughts as tools + mental health" />
 
 (People: Joao Lucas Mendes de Lemos Lins, Gui Sanches de Oliveira)
-</p>
 
 In this project we are exploring a practical application, in the context of cognitive behavioral therapy, of Sanches de Oliveira, Raja and Chemero's (2021) radical embodied, non-representational account of occurrent thoughts (e.g., counterfactual imagination, remembering past events, and making plans for the future) as _tools_ that we build by resonating to nonlocal information at different timescales. Here, a cellphone app is being developed that prompts patients to record their thoughts (specially their self-defeating beliefs, negative attitudes, fears etc.) and, based on these patient reports, the app will provide therapists with ways to identify overarching themes in the patient's thinking in order to support therapy outcomes.
 
@@ -41,11 +39,10 @@ In this project we are exploring a practical application, in the context of cogn
 
 # The nonlinear dynamics of presence in virtual environments
 
-<p align="center">
-<img align="center" width="500" src="/project-VR-pexels-eren-li-7241419.jpg" title="Dynamics of presence in VR" alt="Dynamics of presence in VR"  style="margin-left: 5px;"/>
+<img  width="500" src="/project-VR-pexels-eren-li-7241419.jpg" title="Dynamics of presence in VR" alt="Dynamics of presence in VR" />
 
 (People: Lukas Gehrke, Chris Riehm, Gui Sanches de Oliveira, Klaus Gramann)
-</p>
+
 
 Traditional methods for assessing the sense of "presence" in virtual reality environments, such as questionnaires, presuppose a separation between a user’s subjective experience and their overt behavior. Challenging this common assumption, in this project we apply nonlinear analysis methods to EEG time-series from an experiment in which the participants' experience in virtual reality was artificially disrupted: our goal is to develop an objective, action-based measure of presence in virtual reality based on the dynamical signature of the brain-body-environment system. 
 
@@ -57,8 +54,7 @@ Traditional methods for assessing the sense of "presence" in virtual reality env
 
 # Brain-Body Dynamics and Affordances for grasping and pointing
 
-<p align="center">
-<img align="center" width="500" src="/project-reaching-pexels-ron-lach-9930277.jpg" title="grasping and pointing" alt="grasping and pointing"  style="margin-right: 5px;"/></p>
+<img width="500" src="/project-reaching-pexels-ron-lach-9930277.jpg" title="grasping and pointing" alt="grasping and pointing"  style="margin-right: 5px;"/>
 
 (People: Bilal Arafaat, Gui Sanches de Oliveira, Klaus Gramann)
 
@@ -72,8 +68,7 @@ Studying simple behaviors like pointing and grasping can be a powerful means to 
 
 # Embodied Exploration & Affordances in Neuroarchitecture
 
-<p align="center">
-<img align="center" width="500" src="/project-architecture-pexels-ricardo-esquivel-1666667.jpg" title="Affordances in Neuroarchitecture" alt="Affordances in Neuroarchitecture"  style="margin-right: 5px;"/> </p>
+<img  width="500" src="/project-architecture-pexels-ricardo-esquivel-1666667.jpg" title="Affordances in Neuroarchitecture" alt="Affordances in Neuroarchitecture"  style="margin-right: 5px;"/> 
 
 (People: Sheng Wang, Gui Sanches de Oliveira, Klaus Gramann)
 
