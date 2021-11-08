@@ -19,7 +19,7 @@ Group Leader
 Student Member, Master's program in Human Factors
 <br>
 <br>
-**Joao Lucas Mendes**
+**Joao Lucas Mendes de Lemos Lins**
 <br>
 Student Member, Master's program in Computer Science 
 <br>
