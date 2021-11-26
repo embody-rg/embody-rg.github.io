@@ -67,3 +67,5 @@ University of Cincinnati, [Psychology](https://www.artsci.uc.edu/departments/psy
 <br>
 Emory University School of Medicine, [Sport Performance And Research Center (SPARC)](https://med.emory.edu/departments/orthopaedics/research/sparc/index.html)
 
+<br><br><br>
+If you're interested in joining us as a core member or external collaborator, get in touch with Gui at embody.rg@gmail.com
