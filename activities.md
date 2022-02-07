@@ -34,6 +34,6 @@ We are planning workshops and lectures by visiting researchers for 2022. Stay tu
 
 Posters from previous events:
 
-<img width="500" src="/SebWallotPoster.png" title="Seb Wallot talk, February 3, 2022" alt="Seb Wallot talk, February 3, 2022"/>
+<img width="750" src="/SebWallotPoster.png" title="Seb Wallot talk, February 3, 2022" alt="Seb Wallot talk, February 3, 2022"/>
 
 
