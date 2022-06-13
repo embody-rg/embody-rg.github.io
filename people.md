@@ -16,7 +16,7 @@ Group Leader
 <br>
 **Paul Schweidler**
 <br>
-Student Member, Master's program in Human Factors
+Student Member, Master's program in Human Factors (completed 2022)
 <br>
 <br>
 **Joao Lucas Mendes de Lemos Lins**
@@ -32,6 +32,11 @@ Student Member, PhD program in Biological Psychology and Neuroergonomics
 **Sheng Wang**
 <br>
 Student Member, PhD program in Biological Psychology and Neuroergonomics
+<br>
+<br>
+**Moritz Bammel**
+<br>
+Student Member, Master's program at the Berlin School of Mind and Brain (Humboldt University)
 <br>
 <br>
 
