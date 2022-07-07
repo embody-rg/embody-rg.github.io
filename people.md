@@ -71,6 +71,11 @@ University of Cincinnati, [Psychology](https://www.artsci.uc.edu/departments/psy
 **Chris Riehm**
 <br>
 Emory University School of Medicine, [Sport Performance And Research Center (SPARC)](https://med.emory.edu/departments/orthopaedics/research/sparc/index.html)
+<br>
+<br>
+**Vicente Raja**
+<br>
+Western University, Rotman Institute of Philosophy, [The EMRG Lab]([https://med.emory.edu/departments/orthopaedics/research/sparc/index.html](http://www.emrglab.org/vicente-raja.html))
 
 <br><br><br>
 If you're interested in joining us as a core member or external collaborator, get in touch with Gui at embody.rg@gmail.com
