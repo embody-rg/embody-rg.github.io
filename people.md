@@ -24,6 +24,11 @@ Student Member, Master's program in Human Factors (completed 2022)
 Student Member, Master's program in Computer Science 
 <br>
 <br>
+**Eleonora Kostadinova**
+<br>
+Student Member, Master's program in Human Factors
+<br>
+<br>
 **Bilal Arafaat**
 <br>
 Student Member, PhD program in Biological Psychology and Neuroergonomics
@@ -35,6 +40,11 @@ Student Member, PhD program in Biological Psychology and Neuroergonomics
 <br>
 <br>
 **Moritz Bammel**
+<br>
+Student Member, Master's program at the Berlin School of Mind and Brain (Humboldt University)
+<br>
+<br>
+**Hannah Kruft**
 <br>
 Student Member, Master's program at the Berlin School of Mind and Brain (Humboldt University)
 <br>
@@ -76,6 +86,12 @@ Emory University School of Medicine, [Sport Performance And Research Center (SPA
 **Vicente Raja**
 <br>
 Western University, Rotman Institute of Philosophy, [The EMRG Lab](http://www.emrglab.org/vicente-raja.html)
+<br>
+<br>
+**Edward Baggs**
+<br>
+Department of Language and Communication, and Danish Institute for Advanced Study, University of Southern Denmark
+
 
 <br><br><br>
 If you're interested in joining us as a core member or external collaborator, get in touch with Gui at embody.rg@gmail.com
