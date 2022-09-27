@@ -8,10 +8,7 @@ title: Activities
 
 ### Reading Group
 
-Current book, Spring 2022: *Mind Ecologies: Body, Brain, and World,* by Matthew Crippen and Jay Schulkin (Columbia Univ Press, 2020)
-<br>
-<br>
-Previous books: 
+Spring 2022: *Mind Ecologies: Body, Brain, and World,* by Matthew Crippen and Jay Schulkin (Columbia Univ Press, 2020)
 <br>
 <br>
 Fall 2021: *The Brain from Inside Out*, by György Buzsáki (2019, OUP)
