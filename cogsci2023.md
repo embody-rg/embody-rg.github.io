@@ -6,7 +6,7 @@ title: EMBODY Research Group @ CogSci2023
 
 <br>
 
-EMBODY Research Group members are contributing to the Cognitive Science Society 2023 Meeting with 1 symposium and 3 posters. To attend any of these events, register directly on CogSci's page: https://cognitivesciencesociety.org/registration/
+EMBODY Research Group members are contributing to the Cognitive Science Society 2023 Meeting with 1 symposium and 3 posters. To attend any of these events, [https://cognitivesciencesociety.org/registration/](register directly on CogSci's page). 
 
 <br><br>
 
