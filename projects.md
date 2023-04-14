@@ -24,33 +24,6 @@ Currently popular accounts explain insight as involving some kind of internal re
 
 
 
-# Thoughts as tools + mental health
-
-<img width="500" src="/project-phone-pexels-keira-burton-6084224.jpg" title="Thoughts as tools + mental health" alt="Thoughts as tools + mental health" />
-
-(People: Joao Lucas Mendes de Lemos Lins, Gui Sanches de Oliveira)
-
-In this project we are exploring a practical application, in the context of cognitive behavioral therapy, of Sanches de Oliveira, Raja and Chemero's (2021) radical embodied, non-representational account of occurrent thoughts (e.g., counterfactual imagination, remembering past events, and making plans for the future) as _tools_ that we build by resonating to nonlocal information at different timescales. Here, a cellphone app is being developed that prompts patients to record their thoughts (especially their self-defeating beliefs, negative attitudes, fears etc.) and, based on these patient reports, the app will provide therapists with ways to identify overarching themes in the patient's thinking in order to support therapy outcomes.
-
-<br>
-<br>
-
-
-
-# The nonlinear dynamics of presence in virtual environments
-
-<img  width="500" src="/project-VR-pexels-eren-li-7241419.jpg" title="Dynamics of presence in VR" alt="Dynamics of presence in VR" />
-
-(People: Lukas Gehrke, Chris Riehm, Gui Sanches de Oliveira, Klaus Gramann)
-
-
-Traditional methods for assessing the sense of "presence" in virtual reality environments, such as questionnaires, presuppose a separation between a user’s subjective experience and their overt behavior. Challenging this common assumption, in this project we apply nonlinear analysis methods to EEG time-series from an experiment in which the participants' experience in virtual reality was artificially disrupted: our goal is to develop an objective, action-based measure of presence in virtual reality based on the dynamical signature of the brain-body-environment system. 
-
-<br>
-<br>
-
-
-
 
 # Brain-Body Dynamics and Affordances for grasping and pointing
 
