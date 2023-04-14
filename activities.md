@@ -27,10 +27,10 @@ Fall 2020: *After Phrenology: Neural Reuse and the Interactive Brain*, by Michae
 
 ### Public Events
 
-We are planning workshops and lectures by visiting researchers for 2022. Stay tuned!
+We are planning workshops and lectures by visiting researchers for 2023. Stay tuned!
 
 Posters from previous events:
 
+<img width="750" src="/hannah.jpeg" title="Hannah Kruft paper discussion, October 7, 2022" alt="Hannah Kruft paper discussion, October 7, 2022"/>
+
 <img width="750" src="/SebWallotPoster.png" title="Seb Wallot talk, February 3, 2022" alt="Seb Wallot talk, February 3, 2022"/>
-
-
