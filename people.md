@@ -75,7 +75,7 @@ Emory University School of Medicine, [Sport Performance And Research Center (SPA
 <br>
 **Vicente Raja**
 <br>
-Western University, Rotman Institute of Philosophy, [The EMRG Lab](http://www.emrglab.org/vicente-raja.html)
+Department of Philosophy, University of Murcia, [MINT Lab](https://www.um.es/web/minimal-intelligence-lab/) & [The EMRG Lab](http://www.emrglab.org/vicente-raja.html)
 <br>
 <br>
 **Edward Baggs**
