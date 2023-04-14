@@ -1,15 +1,14 @@
 ---
-title: Activities
+title: EMBODY Research Group @ CogSci2023
 ---
 
 
 
 <br>
 
-EMBODY Research Group member are contributing to the Cognitive Science Society 2023 meeting with 1 symposium and 3 posters.
-<br>
-<br>
+EMBODY Research Group members are contributing to the Cognitive Science Society 2023 Meeting with 1 symposium and 3 posters. To attend any of these events, register directly on CogSci's page: https://cognitivesciencesociety.org/registration/
 
+<br><br>
 
 
 
@@ -59,8 +58,8 @@ Interactivity and Language Lab.
 
 
 
-**Dr. Rachel Kallen** is associate professor in the Department of Psychology at Macquarie University in Sydney, Australia.
-
+**Dr. Rachel Kallen** is associate professor in the Department of Psychology at Macquarie University in Sydney, Australia.<br>
+&<br>
 **Dr. Michael Richardson** is professor in the Department of Psychology at Macquarie University and the director of the Centre for Elite Performance Expertise and Training
 (CEPET) in Sydney, Australia.
 
