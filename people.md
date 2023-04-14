@@ -19,16 +19,6 @@ Group Leader
 Student Member, Master's program in Human Factors (completed 2022)
 <br>
 <br>
-**Joao Lucas Mendes de Lemos Lins**
-<br>
-Student Member, Master's program in Computer Science 
-<br>
-<br>
-**Eleonora Kostadinova**
-<br>
-Student Member, Master's program in Human Factors
-<br>
-<br>
 **Bilal Arafaat**
 <br>
 Student Member, PhD program in Biological Psychology and Neuroergonomics
