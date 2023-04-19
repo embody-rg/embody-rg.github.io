@@ -17,8 +17,8 @@ Ecological psychology is one of the main theoretical and empirical sources of th
 - Ed Baggs (University of Southern Denmark)
 - Miguel Segundo-Ortin (Universidad de Murcia)
 - Robyn E. Wilford (University of Toronto)
+<br>
 
----
 
 ### Call for Participation
 
@@ -30,9 +30,9 @@ We want to complement the contributions of the invited speakers with a variety o
  
 Any form of participation is welcomed and encouraged. 
 
-To register, complete [**_this form_**](https://forms.gle/HXW7yiA5KCVPquuH9) and indicate how you would like to participate (whether you have something to present or just want to watch). Due to time constraints, some proposals may not be accepted.  
+Click [**_HERE_**](https://forms.gle/HXW7yiA5KCVPquuH9) to complete the registration form and indicate how you would like to participate (whether you have something to present or just want to watch). Due to time constraints, we may not be able to accept all proposals.  
 
-Deadline for submissions: __**May 12th, 2023**__ (registration as non-presenter will be accepted afterward, but for planning purposes, in the case of space limitations, priority will be given to those who registered by the deadline)
+Deadline for submissions: _**May 12th, 2023**_ (registration as non-presenter will be accepted afterward, but for planning purposes, in the case of space limitations, priority will be given to those who registered by the deadline)
 
 If you have any questions, feel free to contact the organizers: Vicente (...) and Gui (gui.cogsci@gmail.com)
 
