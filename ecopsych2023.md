@@ -19,6 +19,7 @@ Ecological psychology is one of the main theoretical and empirical sources of th
 - Robyn E. Wilford (University of Toronto)
 <br>
 
+---
 
 ### Call for Participation
 
@@ -34,8 +35,7 @@ Click [**_HERE_**](https://forms.gle/HXW7yiA5KCVPquuH9) to complete the registra
 
 Deadline for submissions: _**May 12th, 2023**_ (registration as non-presenter will be accepted afterward, but for planning purposes, in the case of space limitations, priority will be given to those who registered by the deadline)
 
-If you have any questions, feel free to contact the organizers: Vicente (...) and Gui (gui.cogsci@gmail.com)
-
+If you have any questions, feel free to contact the organizers: Vicente (vicendio@gmail.com) and Gui (gui.cogsci@gmail.com)
 
 
 ---
