@@ -3,8 +3,8 @@ title: Berlin Workshop on Ecological Psychology 2023
 ---
 
 
-[THE POSTER GOES HERE]
-
+<img width="750" src="/ecopsych2023.jpeg" title="Berlin Workshop on Ecological Psychology: June 8, 2023" alt="Berlin Workshop on Ecological Psychology: June 8, 2023"/> 
+ 
  
 **Where:** TU Berlin – Exact location TBD
  
