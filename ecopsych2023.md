@@ -13,14 +13,15 @@ title: Berlin Workshop on Ecological Psychology 2023
 **Topic:** Ecological psychology is one of the main theoretical and empirical sources of the embodied cognitive sciences. During over 50 years, it has provided insights, concepts, and experimental results challenging the fundamental tenets of the mainstream sciences of the mind. In this workshop, the invited speakers will provide a general view on the ecological approach to perception, action, and cognition, and will explore different applications to the social realm and to high-order cognitive capacities.
 
 
-### Invited Keynote Talks:             
+### Invited keynote talks:             
+
 - Ed Baggs (University of Southern Denmark)
 - Miguel Segundo-Ortin (Universidad de Murcia)
 - Robyn E. Wilford (University of Toronto)
 
-<br>
 
 ### Call for Participation
+
 We want to complement the contributions of the invited speakers with a variety of discussion and participation forms. For this reason, we do not open a call for papers, but a **call for participation**:
  
 Do you have a **flash-talk**? An ecological **idea** you want to test? Come and tell us about it!
