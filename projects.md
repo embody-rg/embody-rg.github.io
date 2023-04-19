@@ -63,6 +63,9 @@ In this project we investigate the visual control of hand movements at play when
 
 
 
+
+
+
 # Embodied Exploration & Affordances in Neuroarchitecture
 
 <img  width="500" src="/project-architecture-pexels-ricardo-esquivel-1666667.jpg" title="Affordances in Neuroarchitecture" alt="Affordances in Neuroarchitecture"  style="margin-right: 5px;"/> 
