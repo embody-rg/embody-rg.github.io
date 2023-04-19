@@ -48,6 +48,19 @@ Studying simple behaviors like pointing and grasping can be a powerful means to 
 <br>
 
 
+# Visual control of hand movement in interception
+
+<img width="500" src="/project-visualcontrol-pexels-саwа-8600869.jpg" title="visual control of hand movement / interception" alt="visual control of hand movement / interception"  style="margin-right: 5px;"/>
+
+(People: Vicente Raja, Gui Sanches de Oliveira, Bilal Arafaat, Klaus Gramann)
+
+In this project we investigate the visual control of hand movements at play when intercepting a moving object. Besides replicating established findings at the behavioral level, our goal is to identify the relevant neural dynamics involved in resonating to visual ecological information (_tau_).
+
+
+
+<br>
+<br>
+
 
 
 # Embodied Exploration & Affordances in Neuroarchitecture
