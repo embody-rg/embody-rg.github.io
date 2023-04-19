@@ -23,7 +23,7 @@ Ecological psychology is one of the main theoretical and empirical sources of th
 
 ### Call for Participation
 
-We want to complement the contributions of the invited speakers with a variety of discussion and participation forms. For this reason, we do not open a call for papers, but a **call for participation**:
+We want to complement the contributions of the invited speakers with a variety of discussion and participation formats. For this reason, we do not open a call for papers, but a **call for participation**:
  
 - Do you have a **flash-talk**? An ecological **idea** you want to test? Come and tell us about it!
 - Do you have a **poster**? Please bring it with you and let us know about it!   
