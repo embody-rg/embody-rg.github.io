@@ -21,7 +21,7 @@ navbar-links:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   Activities: "activities"
-  Opportunities: "opportunities"
+  # Opportunities: "opportunities"
 
 # --- Logo --- #
 
