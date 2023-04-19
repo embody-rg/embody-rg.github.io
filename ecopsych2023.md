@@ -11,7 +11,7 @@ title: Berlin Workshop on Ecological Psychology 2023
 **When:** Friday, June 9th, 2023  (tentatively from 10am to 5pm)
 
 **Topic:** 
-Ecological psychology is one of the main theoretical and empirical sources of the embodied cognitive sciences. During over 50 years, it has provided insights, concepts, and experimental results challenging the fundamental tenets of the mainstream sciences of the mind. In this workshop, the invited speakers will provide a general view on the ecological approach to perception, action, and cognition, and will explore different applications to the social realm and to high-order cognitive capacities.
+Ecological psychology is one of the main theoretical and empirical sources of the embodied cognitive sciences. For over 50 years, it has provided insights, concepts, and experimental results challenging the fundamental tenets of the mainstream sciences of the mind. In this workshop, the invited speakers will provide a general view on the ecological approach to perception, action, and cognition, and will explore different applications to the social realm and to high-order cognitive capacities.
 
 **Invited keynote talks:**             
 - Ed Baggs (University of Southern Denmark)
