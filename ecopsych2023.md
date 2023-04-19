@@ -27,11 +27,11 @@ We want to complement the contributions of the invited speakers with a variety o
  
 - Do you have a **flash-talk**? An ecological **idea** you want to test? Come and tell us about it!
 - Do you have a **poster**? Please bring it with you and let us know about it!   
-- Have you started reading ecological stuff and you have **questions** about it? Share them with us and let's discuss them together!
+- Started reading ecological stuff and have **questions** about it? Share them with us and we'll discuss them together!
  
-Any form of participation is welcomed and encouraged. 
+Any form of participation is welcome and encouraged. 
 
-Click [**_HERE_**](https://forms.gle/HXW7yiA5KCVPquuH9) to complete the registration form and indicate how you would like to participate (whether you have something to present or just want to watch). Due to time constraints, we may not be able to accept all proposals.  
+Click [**_HERE_**](https://forms.gle/HXW7yiA5KCVPquuH9) to complete the registration form and to indicate how you would like to participate (whether you have something to present or just want to watch). Due to time constraints, we may not be able to accept all proposals.  
 
 Deadline for submissions: _**May 12th, 2023**_ (registration as non-presenter will be accepted afterward, but for planning purposes, in the case of space limitations, priority will be given to those who registered by the deadline)
 
