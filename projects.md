@@ -8,6 +8,17 @@ The following are some of the diverse projects currently being developed by EMBO
 <br>
 
 
+# Expertise and Reading Comprehension as Embodied Action
+
+<img width="500" src="/project-readingcomp-pexels-george-pak-7972359.jpg" title="Reading Comprehension as Embodied Action" alt="Reading Comprehension as Embodied Action" />
+
+(People: Moritz Bammel, Gui Sanches de Oliveira)
+
+Reading comprehension is often conceptualized in terms of the internal processing of linguistic information and construction of internal mental representations. In contrast, an ecological-enactive approach rejects this internalist focus and instead emphasizes the dynamic process of reader-text coupling in which eye movements play a constitutive role. In this project we employ methods from dynamical systems theory to shed light on reading comprehension proficiency as measured experimentally, while also pursuing a philosophically-informed view of the expertise at play in understanding domain-specific content in specialized texts.
+
+<br>
+<br>
+
 
 
 # Dynamics of Insight in Graph Comprehension 
