@@ -18,6 +18,7 @@ title: Berlin Workshop on Ecological Psychology 2023
 - Miguel Segundo-Ortin (Universidad de Murcia)
 - Robyn E. Wilford (University of Toronto)
 
+<br>
 
 ### Call for Participation
 We want to complement the contributions of the invited speakers with a variety of discussion and participation forms. For this reason, we do not open a call for papers, but a **call for participation**:
