@@ -8,7 +8,7 @@ title: Workshop on Nonlinear Dynamics and Embodied Cognition
  
 **Where:** TU Berlin – Exact location TBD
  
-**When:** Thursday, June 8th, 2023  (tentatively from 11am to 4pm)
+**When:** Thursday, June 8, 2023  (tentatively from 11am to 4pm)
 
 **Target audience:** Students of all levels (bachelor's, master's, PhD). No prior knowledge of dynamical systems theory (DST) will be assumed, but basic familiarity with, and interest in, embodied cognitive science will be helpful.
 
