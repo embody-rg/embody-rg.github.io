@@ -23,17 +23,17 @@ Ecological psychology is one of the main theoretical and empirical sources of th
 
 ### Call for Participation
 
-We want to complement the contributions of the invited speakers with a variety of discussion and participation formats. For this reason, we do not open a call for papers, but a **call for participation**:
+We want to complement the contributions of the invited speakers with a variety of discussion and participation formats. For this reason, instead of a call for papers, we're opening a **call for participation**:
  
 - Do you have a **flash-talk**? An ecological **idea** you want to test? Come and tell us about it!
-- Do you have a **poster**? Please bring it with you and let us know about it!   
+- Do you have a **poster**? Please bring it with you!  
 - Started reading ecological stuff and have **questions** about it? Share them with us and we'll discuss them together!
  
 Any form of participation is welcome and encouraged. 
 
 Click [**_HERE_**](https://forms.gle/HXW7yiA5KCVPquuH9) to complete the registration form and to indicate how you would like to participate (whether you have something to present or just want to watch). Due to time constraints, we may not be able to accept all proposals.  
 
-Deadline for submissions: _**May 12th, 2023**_ (registration as non-presenter will be accepted afterward, but for planning purposes, in the case of space limitations, priority will be given to those who registered by the deadline)
+Deadline for submissions: _**May 12, 2023**_. Registration as non-presenter will be accepted afterward, but for planning purposes, in the case of space limitations, priority will be given to those who register by the deadline. Registration is free!
 
 If you have any questions, feel free to contact the organizers: Vicente (vicendio@gmail.com) and Gui (gui.cogsci@gmail.com)
 
