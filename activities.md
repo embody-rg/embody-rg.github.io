@@ -9,14 +9,41 @@ title: Activities
 
 
 
+## Upcoming Events
 
 
-We are planning workshops and lectures by visiting researchers for 2023. Stay tuned!
+### Workshop on Nonlinear Dynamics and Embodied Cognition: June 8, 2023
+
+For information on this event, click <a href="http://www.embody.group/nonlinear2023/" target="_blank">**HERE**</a> or on the poster below.
+
+<a href="http://www.embody.group/nonlinear2023/" target="_blank"><img width="600" src="/nonlinear2023-poster.jpg" title="Berlin Workshop on Ecological Psychology: June 8, 2023" alt="Berlin Workshop on Ecological Psychology: June 8, 2023"/> </a>
+
+
+
+<br>
+
+
+
+### Berlin Workshop on Ecological Psychology: June 9, 2023
+
+For information on this event, click <a href="http://www.embody.group/ecopsych2023/" target="_blank">**HERE**</a> or on the poster below.
+
+<a href="http://www.embody.group/ecopsych2023/" target="_blank"><img width="600" src="/ecopsych2023-poster.jpg" title="Berlin Workshop on Ecological Psychology: June 8, 2023" alt="Berlin Workshop on Ecological Psychology: June 8, 2023"/> </a>
+
+
+
+<br>
+<br>
+
+
+
+We are planning other workshops and lectures by visiting researchers for 2023. Stay tuned!
 
 <br>
 
 ---
 <br>
+
 
 
 ### Reading Group
