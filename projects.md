@@ -48,6 +48,7 @@ Studying simple behaviors like pointing and grasping can be a powerful means to 
 <br>
 
 
+
 # Visual control of hand movement in interception
 
 <img width="500" src="/project-visualcontrol-pexels-саwа-8600869.jpg" title="visual control of hand movement / interception" alt="visual control of hand movement / interception"  style="margin-right: 5px;"/>
@@ -55,7 +56,6 @@ Studying simple behaviors like pointing and grasping can be a powerful means to 
 (People: Vicente Raja, Gui Sanches de Oliveira, Bilal Arafaat, Klaus Gramann)
 
 In this project we investigate the visual control of hand movements at play when intercepting a moving object. Besides replicating established findings at the behavioral level, our goal is to identify the relevant neural dynamics involved in resonating to visual ecological information (_tau_).
-
 
 
 <br>
@@ -73,6 +73,21 @@ In this project we investigate the visual control of hand movements at play when
 (People: Sheng Wang, Gui Sanches de Oliveira, Klaus Gramann)
 
 Research in neuroarchitecture investigates the neural basis of human perception of, and action within, the surrounding architectural environment, often with the goal of understanding the cognitive processes at play during this interaction and of providing a foundation for evidence-based architectural design. In this project we examine the shortcomings of contemporary neuroarchitectural research, and we propose that combining theoretical and conceptual resources from ecological psychology with state-of-the-art neuroscience methods (Mobile Brain/Body Imaging) is a promising way to push the field of neuroarchitecture forward.
+
+<br>
+<br>
+
+
+
+# Affordances and Experience at the interface between Ecological Psychology and Environmental Ethics
+
+<img  width="500" src="/project-envethics-pexels-photo-4060442.jpeg" title="Affordances and Experience at the interface between Ecological Psychology and Environmental Ethics" alt="Affordances and Experience at the interface between Ecological Psychology and Environmental Ethics"  style="margin-right: 5px;"/>
+
+(People: Hannah Kruft, Gui Sanches de Oliveira)
+
+
+Recent work in environmental ethics challenges the distinction between the “natural” and the “built” environment. In this project we investigate the prospect of integrating this way of thinking with the understanding of cognition offered by ecological psychology. On the one hand, we explore the role of affordances in shaping our building practices, including but not limited to those at play in professional contexts (e.g. urban planning and architecture), with special focus on novel approaches favoring open, disruptive design. On the other hand, we also consider how thinking in terms of “experience” (in a pragmatist, radical empiricist sense) can help bridge the divide between the descriptive and the normative types of systems thinking at play in ecological psychology and environmental ethics, respectively.
+
 <br>
 <br>
 
