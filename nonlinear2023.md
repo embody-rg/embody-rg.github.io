@@ -16,7 +16,7 @@ title: Workshop on Nonlinear Dynamics and Embodied Cognition
 
 **Goal:** This workshop aims to provide a gentle introduction to dynamical systems theory for psychology and philosophy students, with a specific focus on radical embodied (e.g., enactive, ecological) approaches to mind/life. Besides introducing basic concepts from DST and giving an overview of popular modeling and data analysis methods, we will also discuss examples of philosophically-oriented applications of these methods. 
 
-Click [**_HERE_**](https://forms.gle/Q1vU5BMCpysBb81K9) to submit your registration form.  Registration deadline: _**May 25th, 2023**_
+Click [**_HERE_**](https://forms.gle/Q1vU5BMCpysBb81K9) to submit your registration form. Registration is free and open until _**May 25th, 2023**_.  However, spaces are limited, so register early!
 
 If you have any questions, feel free to contact the organizers: Vicente (vicendio@gmail.com) and Gui (gui.cogsci@gmail.com)
 
