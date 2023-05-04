@@ -94,7 +94,7 @@ To view the poster, click here.
 <br><br>
 
 
-## 4) Poster + abstract: _ Perception-Action Coupling and the Dynamicist/Computationalist Divide_
+## 4) Poster + abstract: _Perception-Action Coupling and the Dynamicist/Computationalist Divide_
 
 Authors: Bilal Arafaat, Gui Sanches de Oliveira & Klaus Gramann (Technische Universität Berlin)
 
