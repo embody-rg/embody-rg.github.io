@@ -14,7 +14,7 @@ EMBODY Research Group members are contributing to the Cognitive Science Society 
 
 ## 1) Symposium: _Embodied Cognition in Context_
 
-<img width="750" src="/SebWallotPoster.png" title="Seb Wallot talk, February 3, 2022" alt="Seb Wallot talk, February 3, 2022"/>
+<img width="750" src="/cogsci2023symposium.png" title="CogSci 2023 Symposium" alt="CogSci 2023 Symposium"/>
 
 ### Symposium Overview:
 
@@ -76,9 +76,9 @@ Interactivity and Language Lab.
 
 Moritz Bammel (Humboldt-Universität zu Berlin) & Gui Sanches de Oliveira (Technische Universität Berlin)
 
-> Abstract: abc abc abc
+> Abstract: Reading comprehension is often conceptualized in terms of the internal processing of linguistic information and construction of accurate mental representations. In contrast, an ecological-enactive approach rejects this internalist focus and instead emphasizes the dynamic process of reader-text coupling in which eye movements play a constitutive role. In this study, we employed recurrence quantification analysis (RQA) to examine the relationship between reading comprehension and eye movement dynamics, based on eye-tracking data from the Potsdam Textbook Corpus recorded from beginners and experts reading scientific texts, followed by comprehension questionnaires. Moreover, we compared the findings from RQA to classical eye movement measures (number of fixations, mean fixation duration, regression fixation proportion). The results indicated that classical eye movement measures did not predict reading comprehension reliably, whereas recurrences in gaze steps were reliably associated with reading comprehension proficiency. Contrary to our original hypothesis, experts showed more irregular, rather than more regular, eye movement dynamics, and these were linked to more proficient reading comprehension. In line with previous research on naturalistic reading using nonlinear methods, the present findings suggest that reading comprehension is best understood as emerging from interaction-dominant coordination processes.
 
-To view the poster, click here. The full paper is available here.
+To view the poster, click here. The full proceedings paper is available here.
 
 <br><br>
 
