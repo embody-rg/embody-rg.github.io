@@ -14,7 +14,7 @@ EMBODY Research Group members are contributing to the Cognitive Science Society 
 
 ## 1) Symposium: _Embodied Cognition in Context_
 
-<img width="750" src="/cogsci2023symposium.png" title="CogSci 2023 Symposium" alt="CogSci 2023 Symposium"/>
+<img width="750" src="/cogsci2023symposium.jpg" title="CogSci 2023 Symposium" alt="CogSci 2023 Symposium"/>
 
 ### Symposium Overview:
 
