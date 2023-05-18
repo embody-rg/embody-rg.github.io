@@ -54,7 +54,7 @@ If you have any questions, feel free to contact the organizers: Vicente (vicendi
      <b>- Cassandra Williams</b> — Radicalism Twice Over: Radical Structuralism, Radical Embodiment, and Subjectivity <br>
      <b>- Dhanaraaj Raghuveer</b> — Is the Logic of Dynamical Systems Theory Compatible with the Theoretical Concepts of Ecological Psychology? </td>
  <tr>
-  <td> 11.45h  </td> <td>  <b>Break<b></td>
+  <td> 11.45h  </td> <td>  <b>Break<b> </td>
  <tr>
   <td> 12.00h  </td> <td>  <b>Robyn E. Wilford</b> — An Ecological Approach to Event Perception and Memory: Principles and Possibilities </td>
  <tr>
@@ -77,8 +77,7 @@ If you have any questions, feel free to contact the organizers: Vicente (vicendi
    <b>- Richard Grafton</b> — Technological Affordances: Bridging HCI and Ecological Psychology</td>
 <tr>
  <td> 17.00h </td> <td> <b>Closing</b> </td>
- <tr>
-  </table>
+ <tr></table>
  
 
 
