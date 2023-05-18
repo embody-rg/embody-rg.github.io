@@ -74,8 +74,7 @@ If you have any questions, feel free to contact the organizers: Vicente (vicendi
 <tr>
  <td> 17.00h </td> <td> <b>Closing</b> </td>
  </tr>
- </tbody>
- </table>
+
  
 
 
