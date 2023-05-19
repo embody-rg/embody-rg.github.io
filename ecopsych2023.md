@@ -67,7 +67,7 @@ If you have any questions, feel free to contact the organizers: Vicente (vicendi
  <td> 16.00h  </td> <td>  <b>Flash Talks 3 — Social Psychology</b> </td>
 </tr>
  <tr>
- <td> </td> <td> <b>- Christopher Droppa</b> on affect and ecological psychology<br>
+ <td> </td> <td> <b>- Christopher Droppa</b> - The Role of the Self in Affective (Gibsonian) Ecological Psychology<br>
    <b>- Martyna Meyer</b> – An Ecological-Enactivist Account of Interpersonal Affordances <br>
   <b>- Christian Kliesch</b> — An Ecological Perspective to Infants’ Understanding of Social Signals <br>
    <b>- Richard Grafton</b> — Technological Affordances: Bridging HCI and Ecological Psychology</td>
