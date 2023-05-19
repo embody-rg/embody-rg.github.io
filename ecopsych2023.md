@@ -6,7 +6,7 @@ title: Berlin Workshop on Ecological Psychology 2023
 <img width="750" src="/ecopsych2023-poster.jpg" title="Berlin Workshop on Ecological Psychology: June 8, 2023" alt="Berlin Workshop on Ecological Psychology: June 8, 2023"/> 
  
  
-**Where:** TU Berlin – Exact location TBD
+**Where:** TU Berlin – Main building (Straße des 17. Juni 135), room H3025
  
 **When:** Friday, June 9th, 2023  (tentatively from 10am to 5pm)
 
