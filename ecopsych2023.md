@@ -37,7 +37,7 @@ If you have any questions, feel free to contact the organizers: Vicente (vicendi
  <tr>
    <td> 11.00h  </td> <td>  <b>Flash Talks 1 — General Theory</b> </td>
   <tr>
-   <td>  </td> <td>  <b>- Sheng Wang</b> on functional vs. stable affordances <br>
+   <td>  </td> <td>  <b>- Christopher Droppa</b> - The Role of the Self in Affective (Gibsonian) Ecological Psychology<br>
      <b>- Cassandra Williams</b> — Radicalism Twice Over: Radical Structuralism, Radical Embodiment, and Subjectivity <br>
      <b>- Dhanaraaj Raghuveer</b> — Is the Logic of Dynamical Systems Theory Compatible with the Theoretical Concepts of Ecological Psychology? </td>
  </tr>
@@ -67,7 +67,7 @@ If you have any questions, feel free to contact the organizers: Vicente (vicendi
  <td> 16.00h  </td> <td>  <b>Flash Talks 3 — Social Psychology</b> </td>
 </tr>
  <tr>
- <td> </td> <td> <b>- Christopher Droppa</b> - The Role of the Self in Affective (Gibsonian) Ecological Psychology<br>
+ <td> </td> <td> <b>- Sheng Wang</b> on functional vs. stable affordances <br>
    <b>- Martyna Meyer</b> – An Ecological-Enactivist Account of Interpersonal Affordances <br>
   <b>- Christian Kliesch</b> — An Ecological Perspective to Infants’ Understanding of Social Signals <br>
    <b>- Richard Grafton</b> — Technological Affordances: Bridging HCI and Ecological Psychology</td>
