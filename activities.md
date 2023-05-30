@@ -17,7 +17,7 @@ title: Activities
 
 For information on this event, click <a href="http://www.embody.group/cogsci2023/" target="_blank">**HERE**</a> or on the poster below.
 
-<a href="http://www.embody.group/nonlinear2023/" target="_blank"><img width="600" src="/cogsci2023symposium.jpg" title="CogSci 2023 Symposium: Embodied Cognition in Context" alt="CogSci 2023 Symposium: Embodied Cognition in Context"/> </a>
+<a href="http://www.embody.group/cogsci2023/" target="_blank"><img width="600" src="/cogsci2023symposium.jpg" title="CogSci 2023 Symposium: Embodied Cognition in Context" alt="CogSci 2023 Symposium: Embodied Cognition in Context"/> </a>
  
  
  <br>
