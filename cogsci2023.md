@@ -78,7 +78,7 @@ Moritz Bammel (Humboldt-Universität zu Berlin) & Gui Sanches de Oliveira (Techn
 
 > Abstract: Reading comprehension is often conceptualized in terms of the internal processing of linguistic information and construction of accurate mental representations. In contrast, an ecological-enactive approach rejects this internalist focus and instead emphasizes the dynamic process of reader-text coupling in which eye movements play a constitutive role. In this study, we employed recurrence quantification analysis (RQA) to examine the relationship between reading comprehension and eye movement dynamics, based on eye-tracking data from the Potsdam Textbook Corpus recorded from beginners and experts reading scientific texts, followed by comprehension questionnaires. Moreover, we compared the findings from RQA to classical eye movement measures (number of fixations, mean fixation duration, regression fixation proportion). The results indicated that classical eye movement measures did not predict reading comprehension reliably, whereas recurrences in gaze steps were reliably associated with reading comprehension proficiency. Contrary to our original hypothesis, experts showed more irregular, rather than more regular, eye movement dynamics, and these were linked to more proficient reading comprehension. In line with previous research on naturalistic reading using nonlinear methods, the present findings suggest that reading comprehension is best understood as emerging from interaction-dominant coordination processes.
 
-To view the poster, click here. The full proceedings paper is available here.
+To view the poster, click here: coming soon. The full proceedings paper is available here: coming soon.
 
 <br><br>
 
@@ -89,7 +89,7 @@ Authors: Gui Sanches de Oliveira (Technische Universität Berlin) & Ed Baggs (Un
 
 > Abstract: Over the last decade, cognitive science and allied fields have been criticized for being excessively “WEIRD,” i.e., overly reliant on participants from Western, Educated, Industrialized, Rich, and Democratic societies. The lack of diversity among research participants is now widely acknowledged, but it’s a rather superficial problem, symptomatic of other more fundamental ones. This poster outlines what we see as four overlapping problems. Cognitive science is WEIRD not only in terms of who makes up its participant pool, but also in terms of its theoretical commitments (e.g., individualism and universalism), methodological assumptions (e.g., measurement and analysis methods), and institutional structures (e.g., funding and publishing). Merely solving the problem of WEIRD participants by sampling more widely is insufficient to address cognitive science’s more fundamental WEIRD theoretical, methodological and institutional problems. Coming to terms with this is necessary if we wish to make cognitive science relevant for all humanity.
 
-To view the poster, click here.
+To view the poster, click here: coming soon.
 
 <br><br>
 
@@ -100,7 +100,7 @@ Authors: Bilal Arafaat, Gui Sanches de Oliveira & Klaus Gramann (Technische Univ
 
 > Abstract: A common claim by advocates of embodied, dynamical approaches is that action and perception are “coupled.” On the face of it, this claim may not seem controversial, after all many researchers working in mainstream computationalist neuroscientific approaches also talk about the “coupling” of perception and action. Our goal here is to clarify the relation between these claims of perception-action coupling stemming from dynamical and from computational perspectives. Examining the empirical evidence that computationalists and dynamicists invoke to support their claims we conclude that, despite using similar terminology, they mean entirely different and incompatible things. Still, we propose that both approaches can, at least to some extent, accommodate the evidence invoked by the other. This suggests that the evidence should not, on its own, be used to argue in favor of one approach against the other, and that the disagreement is of a philosophical nature rather than an empirical one.
 
-To view the poster, click here.
+To view the poster, click here: coming soon.
 
 
 
