@@ -12,6 +12,18 @@ title: Activities
 ## Upcoming Events
 
 
+
+### Symposium and posters at the Cognitive Science Society 2023 meeting (July 26-29, 2023 in Sydney, Australia and online)
+
+For information on this event, click <a href="http://www.embody.group/cogsci2023/" target="_blank">**HERE**</a> or on the poster below.
+
+<a href="http://www.embody.group/nonlinear2023/" target="_blank"><img width="600" src="/cogsci2023symposium.jpg" title="CogSci 2023 Symposium: Embodied Cognition in Context" alt="CogSci 2023 Symposium: Embodied Cognition in Context"/> </a>
+ 
+ 
+ <br>
+
+
+
 ### Workshop on Nonlinear Dynamics and Embodied Cognition: June 8, 2023
 
 For information on this event, click <a href="http://www.embody.group/nonlinear2023/" target="_blank">**HERE**</a> or on the poster below.
