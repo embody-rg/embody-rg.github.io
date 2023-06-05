@@ -26,12 +26,19 @@ If you have any questions, feel free to contact the organizers: Vicente (vicendi
 ### Schedule
 
 11:45 Welcome and Introduction
+
 12:10 Talk 1 on nonlinear modeling methods + ecological psychology (Vicente Raja)
+
 13:10 break (20 min)
+
 13:30 Talk 2 on nonlinear data analysis methods + phenomenology (Gui Sanches de Oliveira)
+
 14:30 break (20 min)
+
 14:50 Talk 3 on nonlinear dynamics + enactivism (Miriam Kyselo)
+
 15:50 closing (10 min)
+
 
 * NOTE: due to time constraints, there will not be a break for lunch, so please plan accordingly.
 
