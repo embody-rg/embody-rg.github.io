@@ -61,10 +61,10 @@ If you have any questions, feel free to contact the organizers: Vicente (vicendi
  <td> 14.45h </td> <td>  <b>Break</b> </td>
 </tr>
  <tr>
- <td> 15.00h  </td> <td>  <b>Ed Baggs</b> — The Useful Dimensions of Social Sensitivity </td>
+ <td> 15.00h  </td> <td>  <b>Ed Baggs</b> — The information available in virtual reality </td>
 </tr>
  <tr>
- <td> 16.00h  </td> <td>  <b>Flash Talks 3 — Social Psychology</b> </td>
+ <td> 16.00h  </td> <td>  <b>Flash Talks 3 — Social Psychology, Affordances and Technology</b> </td>
 </tr>
  <tr>
  <td> </td> <td> <b>- Sheng Wang</b> on functional vs. stable affordances <br>
