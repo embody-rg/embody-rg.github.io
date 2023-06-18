@@ -1,8 +1,5 @@
 ---
-layout: single
-permalink: /WEIRD/
 title: "Psychology's WEIRD Problems"
-author_profile: true
 ---
 
 ## *Psychology's WEIRD Problems*.<br>Cambridge University Press, 2023. ([OPEN ACCESS HERE](https://www.cambridge.org/core/elements/abs/psychologys-weird-problems/C324108A678435B4F18EF712EFB793BB#element)) <img align="right" src="https://gui-cogsci.github.io/images/elements-weird.jpg" width="130">
