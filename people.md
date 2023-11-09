@@ -67,6 +67,12 @@ NTNU, [Philosophy](https://www.ntnu.edu/employees/m.kyselo) and TU Berlin, [Scie
 University of Cincinnati, [Psychology](https://www.artsci.uc.edu/departments/psychology.html) and [Philosophy](https://www.artsci.uc.edu/departments/philosophy.html)
 <br>
 <br>
+**Sebastian Wallot**
+<br>
+Leuphana University Lüneburg, [Psychology](https://www.leuphana.de/en/institutes/isep/people/sebastian-wallot.html)
+<br>
+<br>
+
 **Tehran Davis**
 <br>
 University of Cincinnati, [Psychology](https://www.artsci.uc.edu/departments/psychology.html)
