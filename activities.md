@@ -7,9 +7,26 @@ title: Activities
 <br>
 
 
+## Current Events
+
+### Reading group and workshop on Michela Massimi's "_Perspectival Realism_" 
+
+From November 2023 to February 2024 we are reading Michela Massimi's book "_Perspectival Realism_," approaching it through the lens of pragmatism and radical embodied cognitive science. The reading group will be followed by a virtual workshop to be held in March 2024, details TBD. Get in contact if you would like to participate!
+
+<img width="600" src="/readinggroupmassimi.jpg" title="Perspectival Realism Reading Group" alt="Perspectival Realism Reading Group"/>
 
 
-## Upcoming Events
+
+<br>
+
+
+
+---
+<br>
+
+
+
+## Past Events
 
 
 
@@ -45,25 +62,17 @@ For information on this event, click <a href="http://www.embody.group/ecopsych20
 
 
 <br>
-<br>
 
-
-
-We are planning other workshops and lectures by visiting researchers for 2023. Stay tuned!
-
-<br>
 
 ---
 <br>
 
+### Reading Group Archive
 
-
-### Reading Group
-
-Our reading group is officially on hiatus during Gui's parental leave. Here's what we read previously:
-
-
-Spring/Summer 2022: *Mind Ecologies: Body, Brain, and World,* by Matthew Crippen and Jay Schulkin (Columbia Univ Press, 2020)
+Fall/Winter 2023-2024: *Perspectival Realism*, by Michela Massimi (Oxford, 2022)
+<br>
+<br>
+Spring/Summer 2022: *Mind Ecologies: Body, Brain, and World*, by Matthew Crippen and Jay Schulkin (Columbia Univ Press, 2020)
 <br>
 <br>
 Fall/Winter 2021: *The Brain from Inside Out*, by György Buzsáki (2019, OUP)
@@ -80,7 +89,7 @@ Fall/Winter 2020: *After Phrenology: Neural Reuse and the Interactive Brain*, by
 <br>
 
 
-### Previous events
+### Other events
 
 
 <img width="750" src="/hannah.jpeg" title="Hannah Kruft paper discussion, October 7, 2022" alt="Hannah Kruft paper discussion, October 7, 2022"/> 
