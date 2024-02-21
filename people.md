@@ -39,6 +39,11 @@ Student Member, Master's program at the Berlin School of Mind and Brain (Humbold
 Student Member, Master's program at the Berlin School of Mind and Brain (Humboldt University)
 <br>
 <br>
+**Jee Hyun Moon**
+<br>
+Student Member, Master's program at the Berlin School of Mind and Brain (Humboldt University)
+<br>
+<br>
 **Pedro Noguez**
 <br>
 Student Member, visiting from the PhD program in philosophy at the Federal University of Rio Grande do Sul, in Brazil
