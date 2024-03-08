@@ -4,7 +4,9 @@ title: PRISM 2024
 
 
 <img width="750" src="/prism2024poster.png" title="Perspectivism and Realism In Science and Mind (PRISM): June 4 & 11, 2024" alt="Perspectivism and Realism In Science and Mind (PRISM): June 4 & 11, 2024"/> 
- 
+
+### Perspectivism and Realism In Science and Mind
+
 In different disciplines and fields, controversies surrounding the compatibility between “perspectivist” and “realist” approaches have been prominent in recent decades. Both in philosophy of science and in 4E cognition, for instance, different versions of the same general question have appeared, asking how, starting from a variety of different perspectives (similar and dissimilar in various respects and degrees) human communication and knowledge can be achieved. Disagreements concern not only ideas about what a perspective on reality is, but also about how to understand reality itself such that different perspectives on it can exist, as well as about how we can talk and learn about reality with others. 
 
 The goal of this interdisciplinary online workshop is to promote dialogue between different perspectives on “perspectivism” and “realism” with a particular focus on how they relate to the embodied and situated nature of mind/cognition and of scientific knowledge and scientific practices. The idea for the workshop arises from our reading group on the book _Perspectival Realism_ by Michela Massimi (Oxford University Press, 2022), and given this, we would like to invite proposals for talks in philosophy of science that engage directly with ideas in the book. At the same time, we also strongly encourage submissions that approach questions about perspective and reality much more broadly, from different angles in philosophy of science as well as from perspectives in epistemology, philosophy of mind, cognitive science, psychology, and other fields. 
