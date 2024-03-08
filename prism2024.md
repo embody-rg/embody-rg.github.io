@@ -35,7 +35,7 @@ The following is a non-exhaustive list of relevant keywords as they relate to pe
 
 **Where:** ONLINE
  
-**When:** June 4 and June 11, 2024 - each day from 9am to 12:30 Eastern US /  10am to 1:30pm Brazil /  3pm to 6:30pm Central European Time.
+**When:** the workshop is tentatively planned for June 4 and June 11, 2024 - each day from 9am to 12:30 Eastern US /  10am to 1:30pm Brazil /  3pm to 6:30pm Central European Time 
 
 **Invited speakers:**  Michela Massimi (University of Edinburgh)  and  Michelle Maiese (Emmanuel College)
 
