@@ -41,7 +41,7 @@ The following is a non-exhaustive list of relevant keywords as they relate to pe
 <br>
 
 
-Proposals of 150-500 words for 20-min. talks are welcome by **April 20**. To send your proposal please complete the following submission form: https://forms.gle/Hof6k7LYSgmEuu4i9
+Proposals of 150-500 words for 20-min. talks are welcome by **April 20**. To send your proposal please complete the following submission form: [https://forms.gle/Hof6k7LYSgmEuu4i9](https://forms.gle/Hof6k7LYSgmEuu4i9)
 
 If you have any questions, feel free to contact the organizers: Gui (gui.cogsci@gmail.com) and Pedro (pedro.noguez@ufrgs.br)
 
