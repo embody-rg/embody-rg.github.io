@@ -9,11 +9,11 @@ title: Activities
 
 ## Current Events
 
-### Reading group and workshop on Michela Massimi's "_Perspectival Realism_" 
+### Online workshop _Perspectivism and Realism In Science and Mind_ (PRISM): June 4 and 11, 2024
 
-From November 2023 to February 2024 we are reading Michela Massimi's book "_Perspectival Realism_," approaching it through the lens of pragmatism and radical embodied cognitive science. The reading group will be followed by a virtual workshop to be held in March 2024, details TBD. Get in contact if you would like to participate!
+For information on this event, click <a href="http://www.embody.group/prism2024/" target="_blank">**HERE**</a> or on the poster below.
 
-<img width="600" src="/readinggroupmassimi.jpg" title="Perspectival Realism Reading Group" alt="Perspectival Realism Reading Group"/>
+<a href="http://www.embody.group/prism2024/" target="_blank"><img width="600" src="/prism2024poster.png" title="PRISM Online Workshop" alt="PRISM Online Workshop"/> </a>
 
 
 
@@ -28,6 +28,14 @@ From November 2023 to February 2024 we are reading Michela Massimi's book "_Pers
 
 ## Past Events
 
+
+### Reading group on Michela Massimi's "_Perspectival Realism_" 
+
+From November 2023 to February 2024 we are reading Michela Massimi's book "_Perspectival Realism_." Get in contact if you would like to participate!
+
+<img width="600" src="/readinggroupmassimi.jpg" title="Perspectival Realism Reading Group" alt="Perspectival Realism Reading Group"/>
+
+<br>
 
 
 ### Symposium and posters at the Cognitive Science Society 2023 meeting (July 26-29, 2023 in Sydney, Australia and online)
