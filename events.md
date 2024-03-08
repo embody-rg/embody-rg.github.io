@@ -31,7 +31,7 @@ For information on this event, click <a href="http://www.embody.group/prism2024/
 
 ### Reading group on Michela Massimi's "_Perspectival Realism_" 
 
-From November 2023 to February 2024 we are reading Michela Massimi's book "_Perspectival Realism_." Get in contact if you would like to participate!
+From November 2023 to February 2024 we read Michela Massimi's book "_Perspectival Realism_."
 
 <img width="600" src="/readinggroupmassimi.jpg" title="Perspectival Realism Reading Group" alt="Perspectival Realism Reading Group"/>
 
