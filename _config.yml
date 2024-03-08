@@ -20,7 +20,7 @@ navbar-links:
   Courses: "courses"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
-  Activities: "activities"
+  Events: "events"
   # Opportunities: "opportunities"
 
 # --- Logo --- #
