@@ -2,9 +2,23 @@
 title: Courses
 ---
 
-The following courses are offered to TU Berlin students at the master's and PhD level. Get in touch with Gui if you want to enroll for credit or if you are interested in auditing as an external student. 
+The following courses are (or have been) offered to TU Berlin students at the master's and PhD level. Get in touch with Gui if you want to enroll for credit or if you are interested in auditing as an external student. 
 <br>
 <br>
+
+
+
+<img src="/course-TU-Summer-2024-ECog-and-Scientific-Practice.png" title="Embodied Cognition and Scientific Practice course logo" alt="Embodied Cognition and Scientific Practice course logo" />
+
+### Advanced Topics in Embodied Cognitive Science: Embodied Cognition and Scientific Practice (summer semester 2024, online) ###
+Seminar exploring how the concepts, tools and methods of embodied cognitive science can be applied for making sense of science, scientific knowledge and scientific practices. We will focus on topics such as: extended views of mind and the distribution of epistemic labor in science; situated views of cognition and the role of material engagement and affordances in scientific creativity, imagination and problem solving; and the potential of enactive and ecological approaches to inform a post-representationalist outlook not only about cognition/mind but also about scientific knowledge. 
+<br>
+<br>
+<br>
+
+
+
+
 
 <img src="/TU-embodied-cogsci.png" title="Intro to Embodied CogSci course logo" alt="Intro to Embodied CogSci course logo" />
 
