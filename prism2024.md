@@ -53,10 +53,10 @@ If you have any questions, feel free to contact the organizers: Gui (gui.cogsci@
 
 ### Schedule
 
-<img width="750" src="/prism2024-schedule-day1" title="Perspectivism and Realism In Science and Mind (PRISM): June 4 & 11, 2024" alt="Perspectivism and Realism In Science and Mind (PRISM): June 4 & 11, 2024"/> 
+<img width="750" src="/prism2024-schedule-day1.png" title="Perspectivism and Realism In Science and Mind (PRISM): June 4 & 11, 2024" alt="Perspectivism and Realism In Science and Mind (PRISM): June 4 & 11, 2024"/> 
 
 
-<img width="750" src="/prism2024-schedule-day2" title="Perspectivism and Realism In Science and Mind (PRISM): June 4 & 11, 2024" alt="Perspectivism and Realism In Science and Mind (PRISM): June 4 & 11, 2024"/> 
+<img width="750" src="/prism2024-schedule-day2.png" title="Perspectivism and Realism In Science and Mind (PRISM): June 4 & 11, 2024" alt="Perspectivism and Realism In Science and Mind (PRISM): June 4 & 11, 2024"/> 
  
 
 
