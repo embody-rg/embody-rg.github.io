@@ -43,8 +43,7 @@ The following is a non-exhaustive list of relevant keywords as they relate to pe
 
 <br>
 
-
-Proposals of 150-500 words for talks of 15-20 minutes are welcome until **April 20**. To send your proposal please complete the following submission form: [https://forms.gle/Hof6k7LYSgmEuu4i9](https://forms.gle/Hof6k7LYSgmEuu4i9)
+Attendance is free but prior registration is required. To receive the Zoom link, please fill out the following form: [https://forms.gle/Hof6k7LYSgmEuu4i9](https://forms.gle/Hof6k7LYSgmEuu4i9)
 
 If you have any questions, feel free to contact the organizers: Gui (gui.cogsci@gmail.com) and Pedro (pedro.noguez@ufrgs.br)
 
@@ -54,7 +53,9 @@ If you have any questions, feel free to contact the organizers: Gui (gui.cogsci@
 
 ### Schedule
 
-coming soon
+<img width="750" src="/prism2024-schedule.png" title="Perspectivism and Realism In Science and Mind (PRISM): June 4 & 11, 2024" alt="Perspectivism and Realism In Science and Mind (PRISM): June 4 & 11, 2024"/> 
+
+
  
 
 
