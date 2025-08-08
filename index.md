@@ -1,5 +1,14 @@
 <img src="/embody.png" title="EMBODY Research Group logo" alt="EMBODY Research Group logo" />
 
+
+---
+
+> # IMPORTANT ANNOUNCEMENT:
+> ## I have moved to the University of Murcia, in Spain, to lead an exciting new research project. The *EMBODY Research Group*, in its initial incarnation described here, is NO LONGER ACTIVE as of summer 2025 and the information on this website will no longer be updated. Please check [my personal website](https://gui-cogsci.github.io/) if you want to know what I'm up to.
+
+---
+<br>
+
 The EMBODY Research Group facilitates and promotes interdisciplinary research in, and inspired by, embodied cognitive science. We are situated at the Technical University of Berlin, in Germany. 
 
 As our name suggests, we are interested in exploring mind and behavior through the lens of organism-environment dynamics: 
