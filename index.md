@@ -1,6 +1,8 @@
 <img src="/embody.png" title="EMBODY Research Group logo" alt="EMBODY Research Group logo" />
 
 
+<br>
+
 ---
 
 > # IMPORTANT ANNOUNCEMENT:
